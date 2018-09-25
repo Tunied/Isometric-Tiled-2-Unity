@@ -2,6 +2,7 @@
 
 # Isometric Tiled 2 Unity User Guid
 
+[Download last release](https://github.com/Tunied/ITU/releases)
 
 ## About ITU
 
