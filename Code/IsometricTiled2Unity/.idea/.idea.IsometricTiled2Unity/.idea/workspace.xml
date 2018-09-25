@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="352738fd-6855-4d46-8b83-1c02a454b59e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ITU_MapInfo_Demo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <folding>
+                <marker date="1536651304000" expanded="true" signature="6:134" ph="..." />
+                <marker date="1536651304000" expanded="true" signature="205:1064" ph="{...}" />
+                <marker date="1536651304000" expanded="true" signature="267:1062" ph="{...}" />
+                <marker date="1536651304000" expanded="true" signature="536:1056" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_GenNavMeshBlockExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+              <folding>
+                <marker date="1536651337000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1536651337000" expanded="true" signature="174:1802" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="242:1800" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="414:1002" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="647:736" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="1231:1794" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="1303:1784" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_MeshTileMaker.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_MeshTileMaker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1535675968000" expanded="true" signature="92:2826" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="129:2824" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="523:2522" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="2634:2818" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_Nav_Prefab_Demo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <marker date="1536651337000" expanded="false" signature="6:134" ph="..." />
+                <marker date="1536651337000" expanded="true" signature="208:1681" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="273:1679" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="683:1673" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_ReplaceWithPrefabExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+              <folding>
+                <marker date="1536651337000" expanded="false" signature="6:119" ph="..." />
+                <marker date="1536651337000" expanded="true" signature="193:1788" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="263:1786" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="463:740" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="577:666" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="969:1780" ph="{...}" />
+                <marker date="1536651337000" expanded="true" signature="992:1122" ph="/* Only replace tile in deco layer with prefab ... */" />
+                <marker date="1536651337000" expanded="true" signature="1237:1770" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_SoringManger.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_SoringManger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+              <folding>
+                <marker date="1535675968000" expanded="true" signature="6:52" ph="..." />
+                <marker date="1535675968000" expanded="true" signature="126:1324" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="178:1322" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="388:823" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="725:813" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="897:1316" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="957:1133" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="1211:1304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_NavActor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_NavActor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1535675968000" expanded="false" signature="6:40" ph="..." />
+                <marker date="1535675968000" expanded="true" signature="114:589" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="162:587" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="314:428" ph="{...}" />
+                <marker date="1535675968000" expanded="true" signature="503:581" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ITU_ReadTxmMapInfoExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_ReadTxmMapInfoExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+              <folding>
+                <marker date="1536651304000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1536651304000" expanded="true" signature="171:1668" ph="{...}" />
+                <marker date="1536651304000" expanded="true" signature="238:1666" ph="{...}" />
+                <marker date="1536651304000" expanded="true" signature="656:1132" ph="{...}" />
+                <marker date="1536651304000" expanded="true" signature="1215:1660" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AssetDatabase.CreateAsset</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/57/2151ff7a/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/bc/fccfdcf1/EditorGUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/cf/6ea6e6d0/Path.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/bb/145d332d/ReplacePrefabOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/ab/1fbd035f/File.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_ReadTxmMapInfoExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Old/DemoFlow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Old/DrawTileMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/3d/6bebd131/PrefabUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/RunDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/ef/046dd224/EditorUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Old/DrawTile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/4b/416c0a0f/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F4276734-B089-4B64-B601-89CDA67E17AB/1e/fbc95034/GUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/ae/18bb0264/EditorWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/ca/ea2e5d6b/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/95/e8892710/Vector2Int.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/0d/d8ddd292/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/89/181783d5/Path.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/a2/41b028ad/TextureImporterType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/d7/35c043db/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/f1/2e9d240e/MeshFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5568EF2-E6FD-4F26-B2E2-46D2440BBE7D/39/2ea65c55/XElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_NavActor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_MeshTileMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/34/736b808c/PopupWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/ec/9cbba76f/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/9e/95ee0f22/TextureImporter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/c2/4a2fa8b8/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_SoringManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5568EF2-E6FD-4F26-B2E2-46D2440BBE7D/1f/d538a978/XDocument.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8896FE93-1A80-45AF-A084-47BA3D3FE485/6b/d6599401/LinqExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03E95067-1D96-4403-AB67-FF751C460757/9a/db697564/XmlReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/e1/1b5d9a60/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/68/d67c9172/FileUtil.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Old/DevMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/AttachMapInfo/Demo2/ITU_Demo2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/AttachMapInfo/Demo2/Extension/ITU_ReadTxmMapInfoExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/AttachMapInfo/Demo2/Extension/TxmMapInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Properties/ITU_EachPropertieMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Properties/ITU_PropertieRootMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxEachTileMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxRootMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Objects/ITU_EachObjectMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tiled/ITU_TmxRootMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Extension/ITU_ExtensionBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/ITU_Facade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Demo/TestShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo3/ITU_Demo3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo3/Extension/AddPrefab/ITU_AddPrefabByTilePropertyExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo4/Editor/ITU_MeshTileMakerEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Utils/ITU_Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo4/ITU_MeshTileMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo4/ITU_Demo4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Example/Demo4/NavMeshBlock/ITU_GenNavMeshBlockExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Dev/DevMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tiled/ITU_TmxLayerMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Old/DrawTileMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Old/DemoFlow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Demo_Nav_Prefab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_NavActor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_SoringManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/Layer/ITU_IsoLayerRender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Root.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_RenderSetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Editor/ITU_ImportTxmWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Utils/ITU_FIleUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Utils/ITU_Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxEachTileMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxRootMeta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/Layer/ITU_LayerRenderBasic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/ITU_Facade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_TmxRender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Old/DevMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Eran/IsometricTiled2Unity/Scripts/Runtime/Extension/ITU_ExtensionBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/RunDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Eran/ITU/ITU_Facade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_ReadTxmMapInfoExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="3440" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IsometricTiled2Unity" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="itu_renders&#9;FILE&#9;file:///Users/eran/WorkGround/Unity/Project/IsometricTiled2Unity/Code/IsometricTiled2Unity/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_RenderSetting.cs&#10;ITU_t&#9;FILE&#9;file:///Users/eran/WorkGround/Unity/Project/IsometricTiled2Unity/Code/IsometricTiled2Unity/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxRootMeta.cs&#10;itu_ts&#9;FILE&#9;file:///Users/eran/WorkGround/Unity/Project/IsometricTiled2Unity/Code/IsometricTiled2Unity/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxRootMeta.cs&#10;renderset&#9;FILE&#9;file:///Users/eran/WorkGround/Unity/Project/IsometricTiled2Unity/Code/IsometricTiled2Unity/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_RenderSetting.cs&#10;ITU_de&#9;null&#9;null&#10;iso&#9;FILE&#9;file:///Users/eran/WorkGround/Unity/Project/IsometricTiled2Unity/Code/IsometricTiled2Unity/Assets/Code/Eran/IsometricTiled2Unity/Utils/IsometricMathUtils.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352738fd-6855-4d46-8b83-1c02a454b59e" name="Default" comment="" />
+      <created>1533767182321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533767182321</updated>
+      <workItem from="1533767185228" duration="140000" />
+      <workItem from="1533767388657" duration="1977000" />
+      <workItem from="1533803497896" duration="421000" />
+      <workItem from="1533822192218" duration="930000" />
+      <workItem from="1533857006305" duration="866000" />
+      <workItem from="1533861074716" duration="5900000" />
+      <workItem from="1533882616876" duration="5460000" />
+      <workItem from="1533909773764" duration="3238000" />
+      <workItem from="1533920893249" duration="5944000" />
+      <workItem from="1533927421191" duration="37000" />
+      <workItem from="1533970823090" duration="7520000" />
+      <workItem from="1533996516929" duration="2235000" />
+      <workItem from="1534039026961" duration="1624000" />
+      <workItem from="1534051769342" duration="9221000" />
+      <workItem from="1534077459005" duration="5153000" />
+      <workItem from="1534115458048" duration="1422000" />
+      <workItem from="1534125802189" duration="413000" />
+      <workItem from="1534142547678" duration="6186000" />
+      <workItem from="1534216658686" duration="2592000" />
+      <workItem from="1534227394563" duration="10974000" />
+      <workItem from="1534255367783" duration="2526000" />
+      <workItem from="1534319387061" duration="5507000" />
+      <workItem from="1534339512763" duration="2822000" />
+      <workItem from="1534386878516" duration="2036000" />
+      <workItem from="1534397602870" duration="15039000" />
+      <workItem from="1534492909234" duration="2308000" />
+      <workItem from="1534510311604" duration="3256000" />
+      <workItem from="1534558250243" duration="2624000" />
+      <workItem from="1534572742762" duration="7573000" />
+      <workItem from="1534598064284" duration="3629000" />
+      <workItem from="1534644014558" duration="3383000" />
+      <workItem from="1534660876532" duration="3842000" />
+      <workItem from="1534683203956" duration="5272000" />
+      <workItem from="1534726762164" duration="108000" />
+      <workItem from="1534740425927" duration="9461000" />
+      <workItem from="1534768635544" duration="5786000" />
+      <workItem from="1534811682778" duration="7656000" />
+      <workItem from="1534863892649" duration="1480000" />
+      <workItem from="1534867420674" duration="1000" />
+      <workItem from="1534897950108" duration="3161000" />
+      <workItem from="1534992369383" duration="1685000" />
+      <workItem from="1535007678820" duration="1697000" />
+      <workItem from="1535034725973" duration="299000" />
+      <workItem from="1535075351493" duration="2718000" />
+      <workItem from="1535092062470" duration="783000" />
+      <workItem from="1535209479982" duration="280000" />
+      <workItem from="1535675644674" duration="99000" />
+      <workItem from="1535675747708" duration="18000" />
+      <workItem from="1535675793176" duration="765000" />
+      <workItem from="1536651086729" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="168561000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="3440" height="1440" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296131" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3296131" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15554899" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="8" weight="0.26488096" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33854166" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296131" />
+    </layout>
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="82" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="tiledData" />
+        <watch expression="mMapMeta" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Res/Raw/Tiled/Maps/ITU_Nav_Prefab_Demo.tmx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Demo4.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/cf/6ea6e6d0/Path.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/Demo3/Extension/AddPrefab/ITU_AddPrefabByTilePropertyExtension.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D92044CE-B7B5-4CAE-929F-EED1EFA18C68/4b/416c0a0f/Renderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="256" column="25" selection-start-line="256" selection-start-column="25" selection-end-line="256" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_SoringManger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5568EF2-E6FD-4F26-B2E2-46D2440BBE7D/1f/d538a978/XDocument.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Common/RunInEditor/Editor/ITU_RunInEditorTemplateEditor.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/ITU_ReadTxmMapInfoExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/TxmMapInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_NavActor.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_MeshTileMaker.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB523FBE-888F-4316-8055-1BA2D13342D4/68/d67c9172/FileUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Editor/ITU_ImportTxmWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Utils/ITU_Utils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Old/DevMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Utils/ITU_FIleUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/ITU_Facade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1385">
+          <caret line="114" column="88" selection-start-line="114" selection-start-column="88" selection-end-line="114" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_TmxRender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1301">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tiled/ITU_TmxLayerChunkMeta.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tiled/ITU_TmxLayerMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tiled/ITU_TmxRootMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="114" column="69" selection-start-line="114" selection-start-column="69" selection-end-line="114" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxEachTileMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Tileset/ITU_TsxRootMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Extension/ITU_ExtensionBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/Layer/ITU_IsoLayerRender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/Layer/ITU_LayerRenderBasic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/Layer/ITU_RenderTileData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Properties/ITU_PropertieRootMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Properties/ITU_EachPropertieMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Objects/ITU_EachObjectMeta.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Eran/IsometricTiled2Unity/Scripts/Runtime/Extension/ITU_ExtensionBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Eran/IsometricTiled2Unity/Scripts/Runtime/Data/Objects/ITU_EachObjectMeta.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Eran/IsometricTiled2Unity/Scripts/Editor/ITU_ImportTxmWindow.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiled2Unity/Scripts/Runtime/Render/ITU_RenderSetting.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Scripts/Runtime/Extension/ITU_ExtensionBase.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/RunDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1536651226000" expanded="false" signature="6:74" ph="..." />
+            <marker date="1536651226000" expanded="true" signature="370:846" ph="{...}" />
+            <marker date="1536651226000" expanded="true" signature="561:683" ph="/* Attach extension first ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Eran/ITU/Editor/ITU_ImportTxmWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Eran/ITU/ITU_Facade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_ReadTxmMapInfoExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <marker date="1536651304000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1536651304000" expanded="true" signature="171:1668" ph="{...}" />
+            <marker date="1536651304000" expanded="true" signature="238:1666" ph="{...}" />
+            <marker date="1536651304000" expanded="true" signature="656:1132" ph="{...}" />
+            <marker date="1536651304000" expanded="true" signature="1215:1660" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_MapInfo/Scripts/ITU_MapInfo_Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding>
+            <marker date="1536651304000" expanded="true" signature="6:134" ph="..." />
+            <marker date="1536651304000" expanded="true" signature="205:1064" ph="{...}" />
+            <marker date="1536651304000" expanded="true" signature="267:1062" ph="{...}" />
+            <marker date="1536651304000" expanded="true" signature="536:1056" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_GenNavMeshBlockExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <marker date="1536651337000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1536651337000" expanded="true" signature="174:1802" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="242:1800" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="414:1002" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="647:736" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="1231:1794" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="1303:1784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_MeshTileMaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1535675968000" expanded="true" signature="92:2826" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="129:2824" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="523:2522" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="2634:2818" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_Nav_Prefab_Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1536651337000" expanded="false" signature="6:134" ph="..." />
+            <marker date="1536651337000" expanded="true" signature="208:1681" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="273:1679" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="683:1673" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_NavActor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1535675968000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1535675968000" expanded="true" signature="114:589" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="162:587" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="314:428" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="503:581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_ReplaceWithPrefabExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <marker date="1536651337000" expanded="false" signature="6:119" ph="..." />
+            <marker date="1536651337000" expanded="true" signature="193:1788" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="263:1786" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="463:740" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="577:666" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="969:1780" ph="{...}" />
+            <marker date="1536651337000" expanded="true" signature="992:1122" ph="/* Only replace tile in deco layer with prefab ... */" />
+            <marker date="1536651337000" expanded="true" signature="1237:1770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Eran/IsometricTiledUtils/Example/Demos/ITU_Nav_Prefab/Scripts/ITU_SoringManger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding>
+            <marker date="1535675968000" expanded="true" signature="6:52" ph="..." />
+            <marker date="1535675968000" expanded="true" signature="126:1324" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="178:1322" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="388:823" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="725:813" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="897:1316" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="957:1133" ph="{...}" />
+            <marker date="1535675968000" expanded="true" signature="1211:1304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

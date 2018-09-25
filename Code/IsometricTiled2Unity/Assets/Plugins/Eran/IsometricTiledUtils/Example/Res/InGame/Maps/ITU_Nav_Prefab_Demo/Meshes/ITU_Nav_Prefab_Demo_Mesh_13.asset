@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ITU_Nav_Prefab_Demo_Mesh_13
+  serializedVersion: 9
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 36
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 24
+    localAABB:
+      m_Center: {x: 17.28, y: -0.79250014, z: 0}
+      m_Extent: {x: 4.48, y: 4.4225, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200020001000300040005000600060005000700080009000a000a0009000b000c000d000e000e000d000f00100011001200120011001300140015001600160015001700
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 24
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 1152
+    _typelessdata: cdcc4c41eb516840000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803f8fc27541eb516840000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803fcdcc4c4152b8bebf000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083f8fc2754152b8bebf000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083fae476141d6a33840000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803fb81e8541d6a33840000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803fae4761413e0a0fc0000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083fb81e85413e0a0fc0000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083f8fc27541c2f50840000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803f295c8f41c2f50840000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803f8fc2754152b83ec0000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083f295c8f4152b83ec0000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083fb81e85415a8fb23f000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803f9a9999415a8fb23f000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803fb81e854167666ec0000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083f9a99994167666ec0000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083f285c8f416066263f000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803f0ad7a3416066263f000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803f285c8f413e0a8fc0000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083f0ad7a3413e0a8fc0000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083f99999941808fc2bd000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3f0000803f7b14ae41808fc2bd000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3f0000803f9999994148e1a6c0000000000000000000000000000080bf0000803f0000000000000000000080bfe05c1e3ff9d7083f7b14ae4148e1a6c0000000000000000000000000000080bf0000803f0000000000000000000080bf44916a3ff9d7083f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 17.28, y: -0.79250014, z: 0}
+    m_Extent: {x: 4.48, y: 4.4225, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimized: 0

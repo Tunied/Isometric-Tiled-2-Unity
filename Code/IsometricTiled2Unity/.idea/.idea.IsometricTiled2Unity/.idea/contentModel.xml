@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_IsometricTiled2Unity.-1035676694.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Old" t="Include">
+            <e p="DemoFlow.cs" t="Include" />
+            <e p="DevMain.cs" t="Include" />
+            <e p="DrawTile.cs" t="Include" />
+            <e p="DrawTileMap.cs" t="Include" />
+            <e p="ObjExporterScript.cs" t="Include" />
+            <e p="TouchHelper.cs" t="Include" />
+          </e>
+          <e p="RunDemo.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="eran" t="Include">
+            <e p="IsometricTiledUtils" t="Include">
+              <e p="Example" t="Include">
+                <e p="Common" t="Include">
+                  <e p="RunInEditor" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="ITU_RunInEditorTemplateEditor.cs" t="Include" />
+                    </e>
+                    <e p="ITU_RunInEditorTemplate.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Demos" t="Include">
+                  <e p="ITU_MapInfo" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="ITU_MapInfo_Demo.cs" t="Include" />
+                      <e p="ITU_ReadTxmMapInfoExtension.cs" t="Include" />
+                      <e p="TxmMapInfo.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="ITU_Nav_Prefab" t="Include">
+                    <e p="Scripts" t="Include">
+                      <e p="ITU_GenNavMeshBlockExtension.cs" t="Include" />
+                      <e p="ITU_MeshTileMaker.cs" t="Include" />
+                      <e p="ITU_Nav_Prefab_Demo.cs" t="Include" />
+                      <e p="ITU_NavActor.cs" t="Include" />
+                      <e p="ITU_ReplaceWithPrefabExtension.cs" t="Include" />
+                      <e p="ITU_SoringManger.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ITU_ImportTxmWindow.cs" t="Include" />
+                </e>
+                <e p="Runtime" t="Include">
+                  <e p="Data" t="Include">
+                    <e p="Objects" t="Include">
+                      <e p="ITU_EachObjectMeta.cs" t="Include" />
+                    </e>
+                    <e p="Properties" t="Include">
+                      <e p="ITU_EachPropertieMeta.cs" t="Include" />
+                      <e p="ITU_PropertieRootMeta.cs" t="Include" />
+                    </e>
+                    <e p="Tiled" t="Include">
+                      <e p="ITU_TmxLayerChunkMeta.cs" t="Include" />
+                      <e p="ITU_TmxLayerMeta.cs" t="Include" />
+                      <e p="ITU_TmxRootMeta.cs" t="Include" />
+                    </e>
+                    <e p="Tileset" t="Include">
+                      <e p="ITU_TsxEachTileMeta.cs" t="Include" />
+                      <e p="ITU_TsxRootMeta.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Extension" t="Include">
+                    <e p="ITU_ExtensionBase.cs" t="Include" />
+                  </e>
+                  <e p="ITU_Facade.cs" t="Include" />
+                  <e p="Render" t="Include">
+                    <e p="ITU_RenderSetting.cs" t="Include" />
+                    <e p="ITU_TmxRender.cs" t="Include" />
+                    <e p="Layer" t="Include">
+                      <e p="ITU_IsoLayerRender.cs" t="Include" />
+                      <e p="ITU_LayerRenderBasic.cs" t="Include" />
+                      <e p="ITU_RenderTileData.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Utils" t="Include">
+                    <e p="ITU_FIleUtils.cs" t="Include" />
+                    <e p="ITU_MathUtils.cs" t="Include" />
+                    <e p="ITU_Utils.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="IsometricTiled2Unity.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
