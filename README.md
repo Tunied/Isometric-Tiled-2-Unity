@@ -2,7 +2,6 @@
 
 # Isometric Tiled 2 Unity User Guid
 
-[TOC]
 
 ## About ITU
 
@@ -26,7 +25,7 @@
  
 ### Contact
  
-via e-mail: iamzealotwang@126.com 
+via e-mail: iamzealotwang@126.com  
 language : 中文 or English
 
 ### Features
